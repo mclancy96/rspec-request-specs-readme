@@ -1,6 +1,6 @@
 # RSpec: Request Specs: Testing Rails Controllers and APIs
 
-Welcome to Lesson 21! In this lesson, you'll learn how to write RSpec request specs to test your Rails controllers and APIs. We'll cover what request specs are, why they're important, and how to use them to test GET, POST, PATCH, and DELETE requests. We'll also show you how to check responses, status codes, and JSON bodies. If you know Ruby and Rails but are new to automated testing, this is your guide to end-to-end request testing!
+In this lesson, you'll learn how to write RSpec request specs to test your Rails controllers and APIs. We'll cover what request specs are, why they're important, and how to use them to test GET, POST, PATCH, and DELETE requests. We'll also show you how to check responses, status codes, and JSON bodies. If you know Ruby and Rails but are new to automated testing, this is your guide to end-to-end request testing!
 
 ---
 
